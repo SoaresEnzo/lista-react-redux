@@ -1,0 +1,27 @@
+html, body {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: #121214;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: Helvetica, sans-serif;
+}
+
+.enviar {
+    background-color: #8257e6;
+    color: #ffffff;
+    border: 2px solid #121214;
+}
+
+.list-group-item {
+    border-radius: 6px;
+    border: 2px solid #121214;
+}
+
+.purple-border {
+    border-radius: 6px;
+    border: 2px solid #8257e6;
+}
